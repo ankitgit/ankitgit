@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a Ph.D. student at TU Berlin [DIMA](https://www.dima.tu-berlin.de/menue/database_systems_and_information_management_group/?no_cache=1). I am currently involved in building the next gen. stream processing engine named [NebulaStream](https://nebula.stream). 
+
+![Ankit's github stats](https://github-readme-stats.vercel.app/api?username=ankitgit&show_icons=true&theme=dracula)
+
 <!--
 **ankitgit/ankitgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
