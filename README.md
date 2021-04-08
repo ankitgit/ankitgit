@@ -4,8 +4,8 @@ I am a Ph.D. student at TU Berlin's [DIMA](https://www.dima.tu-berlin.de/menue/d
 
 You can find out more about my social information, my latest activities, and recent publications at [chankit.info](https://www.chankit.info/).
 
-<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitgit&show_icons=true&theme=default" />
-
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitgit&show_icons=true&theme=default" /> 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitgit&layout=compact"/> -->
 <!--
 **ankitgit/ankitgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
