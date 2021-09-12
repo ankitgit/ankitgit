@@ -1,6 +1,3 @@
-<span style="color:blue">some *This is Blue italic.* text</span>
-
-
 ### Hi there 👋
 
 I am a Ph.D. student at TU Berlin's [DIMA](https://www.dima.tu-berlin.de/menue/database_systems_and_information_management_group/?no_cache=1) research group. I am currently involved in building the next gen. distributed stream processing engine named [NebulaStream](https://nebula.stream).
