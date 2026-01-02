@@ -2,7 +2,7 @@
 
 I am a Ph.D. student at TU Berlin's [DIMA](https://www.dima.tu-berlin.de/menue/database_systems_and_information_management_group/?no_cache=1) research group. I am currently involved in building the next gen. distributed stream processing system named [NebulaStream](https://nebula.stream).
 
-You can find out more about my social information, my latest activities, and recent publications at [chankit.info](https://www.chankit.info/).
+You can find out more about my social information, my latest activities, and recent publications at [ankitchaudhary.info](https://www.ankitchaudhary.info/).
 
 <!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitgit&show_icons=true&theme=default" /> 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) 
